@@ -7,8 +7,9 @@
 </div>
   
  <div style="display: inline_block"><br>
+  <img align="left" alt="Rique-IMG" height="150" style="border-radius:50px;" src="GIF/GIF - 3.gif">
   <img align="center" alt="Rique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rique-IMG" height="150" style="border-radius:50px;" src="GIF/GitHub - GIF.gif">
+  <img align="right" alt="Rique-IMG" height="150" style="border-radius:50px;" src="GIF/GIF - 2.gif">
 </div>
  
 ##
