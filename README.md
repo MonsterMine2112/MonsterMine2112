@@ -8,7 +8,7 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Rique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rique-GIF" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rique-IMG" height="150" style="border-radius:50px;" src="GIF/IA.gif">
 </div>
  
 ##
